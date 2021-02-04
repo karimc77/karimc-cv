@@ -1,0 +1,36 @@
+body {
+  min-height: 100vh;
+  font-family: 'Noto Serif JP', serif;
+}
+
+h1 {
+  font-weight: 800;
+  font-size: 4em;
+  font-style: italic;
+}
+
+h2, h3, h4, h5 {
+  color:blue;
+  font-style: italic;
+  font-weight: 600;
+}
+
+h3 {
+  font-size: 1.2em;
+  text-align: center;
+}
+
+strong {
+  font-weight: 600;
+}
+
+footer a {
+  color: white;
+  height: 4em;
+}
+
+.card img {
+  max-height: 255px;
+  max-width: auto;
+}
+
